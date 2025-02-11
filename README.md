@@ -33,3 +33,11 @@ Image Loading: Glide
 Asynchronous Processing: Kotlin Coroutines + Flow
 
 Jetpack Components: LiveData, ViewModel, Lifecycle-aware components
+
+# 📬 Contact
+
+For any questions or suggestions, feel free to reach out:
+
+📧 Email: tanmayahirrao25@google.com
+
+🐙 LinkedIn : https://wwww.linkedin.com/in/tanmay-ahirrao
