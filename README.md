@@ -2,7 +2,7 @@
  
 A Android Wallpaper App built using Kotlin, MVVM architecture, and Jetpack components. The app fetches high-quality wallpapers from a REST API and allows users to set them as their device wallpaper.
 
-#🚀 Features
+# 🚀 Features
 
 Fetch & Display Wallpapers – Retrieves wallpapers from the Picsum API using Retrofit.
 
@@ -18,7 +18,7 @@ Dependency Injection – Utilizes Hilt to manage dependencies and improve scalab
 
 Optimized UI – Implements a RecyclerView with GridLayoutManager for a responsive user experience.
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Language: Kotlin
 
